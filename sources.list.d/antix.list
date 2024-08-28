@@ -1,0 +1,12 @@
+# Use with Debian Bookworm repositories. 
+#deb https://ftp.nluug.nl/os/Linux/distr/mxlinux/antix/bookworm bookworm main nonfree nosystemd  
+#deb-src https://ftp.nluug.nl/os/Linux/distr/mxlinux/antix/bookworm bookworm main nosystemd nonfree  
+deb https://ftp.nluug.nl/os/Linux/distr/mxlinux/antix/bookworm bookworm main nonfree nosystemd
+
+# Use with Debian Testing/'rolling' repositories.
+#deb https://ftp.nluug.nl/os/Linux/distr/mxlinux/antix/testing testing main nosystemd nonfree 
+#deb-src https://ftp.nluug.nl/os/Linux/distr/mxlinux/antix/testing testing main nosystemd nonfree 
+
+# Use with Debian Sid repositories. 
+#deb https://ftp.nluug.nl/os/Linux/distr/mxlinux/antix/sid sid main nosystemd nonfree 
+#deb-src https://ftp.nluug.nl/os/Linux/distr/mxlinux/antix/sid sid main nosystemd nonfree 

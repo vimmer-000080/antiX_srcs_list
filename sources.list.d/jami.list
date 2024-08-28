@@ -1,0 +1,1 @@
+deb [signed-by=/usr/share/keyrings/jami-archive-keyring.gpg] https://dl.jami.net/nightly/debian_12/ jami main
